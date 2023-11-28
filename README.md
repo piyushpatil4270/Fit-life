@@ -14,4 +14,4 @@ Flex-fit is a web application which provides users with gym exercises, cardio an
  ![Image 5](https://github.com/piyushpatil4270/Fit-life/blob/master/client/src/assets/Screenshot%20(12)%20-%20Copy.png) 
  
  Individual exercise page
- ![Image 6](https://github.com/piyushpatil4270/Fit-life/blob/master/client/src/assets/Screenshot%20(14)%20-%20Copy.png) |
+ ![Image 6](https://github.com/piyushpatil4270/Fit-life/blob/master/client/src/assets/Screenshot%20(14)%20-%20Copy.png) 
